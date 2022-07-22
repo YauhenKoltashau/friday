@@ -7,7 +7,7 @@ export const App = () => {
   return (
     <div className="App">
       <Header/>
-        <div>Profile one more time</div>
+        <div>Profile new</div>
       <RoutesBlock/>
     </div>
   );
